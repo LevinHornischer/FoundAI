@@ -11,7 +11,7 @@ The instructor of the seminar is me, [Levin Hornischer](https://www.mcmp.philoso
 
 # Reader
 
-You find the latest edition of the reader in this file: [`reader.pdf` (TBA)](). It will be updated as the course progresses.
+You find the latest edition of the reader in this file: [found-ai.pdf`](found-ai.pdf). It will be updated as the course progresses.
 
 
 # Formalities
