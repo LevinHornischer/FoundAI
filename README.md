@@ -9,6 +9,9 @@ In recent years, artificial intelligence and, in particular, machine learning ma
 
 The instructor of the seminar is me, [Levin Hornischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hornischer_levin/index.html). During the semester, we meet on Wednesdays from 12:15 to 13:45 in room 021 (Ludwigstr. 31). Below you find a schedule of when we cover which topic. 
 
+# Reader
+
+You find the latest edition of the reader in this file: [`reader.pdf` (TBA)](). It will be updated as the course progresses.
 
 
 # Formalities
