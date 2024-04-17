@@ -11,7 +11,7 @@ The instructor of the seminar is me, [Levin Hornischer](https://www.mcmp.philoso
 
 # Reader
 
-You find the latest edition of the reader in this file: [found-ai.pdf`](found-ai.pdf). It will be updated as the course progresses.
+You find the latest edition of the reader in this file: [`found-ai.pdf`](found-ai.pdf). It will be updated as the course progresses.
 
 
 # Formalities
@@ -21,24 +21,24 @@ All the organizational details for the course are described in this file: [`form
 
 # Schedule
 
-The schedule below describes in which week we will cover which material.
+The schedule below describes in which week we will cover which material. Here 'chapter' refers to the chapter of the reader.
 
-Week | Date | Topic | Main reading | Secondary reading 
----  | ---  | ---   | ---          | ---   
- 1 | 17 Apr | Course intro | -  | - 
- 2 | 24 Apr | TBA | TBA | TBA 
- 3 | 1 May  | _cancelled_ (Labour Day) | - | - 
- 4 | 8 May  | TBA | TBA | TBA 
- 5 | 15 May | TBA | TBA | TBA 
- 6 | 22 May | TBA | TBA | TBA 
- 7 | 29 May | TBA | TBA | TBA
- 8 | 5 Jun  | TBA | TBA | TBA 
- 9 | 12 Jun | TBA | TBA | TBA 
-10 | 19 Jun | TBA | TBA | TBA 
-11 | 26 Jun | TBA | TBA | TBA 
-12 | 3 Jul  | TBA | TBA | TBA 
-13 | 11 Jul | TBA | TBA | TBA 
-14 | 17 Jul | TBA | TBA | TBA 
+Week | Date | Chapter | Topic | Main reading | Additional material
+---  | ---  | ---     | ---   | ---          | ---   
+ 1 | 17 Apr | 1 | Course intro | -  | - 
+ 2 | 24 Apr | 2 | Introduction to AI | Russell and Norvig (2021, ch. 1) |  The additional material mentioned in ch. 2
+ 3 | 1 May  | - | _cancelled_ (Labour Day) | - | - 
+ 4 | 8 May  | 3 | Symbolic AI | Flasinski (2016, ch. 2) and Immerman 2021 | - 
+ 5 | 15 May | TBA | TBA | TBA | TBA 
+ 6 | 22 May | TBA | TBA | TBA | TBA 
+ 7 | 29 May | TBA | TBA | TBA | TBA
+ 8 | 5 Jun  | TBA | TBA | TBA | TBA 
+ 9 | 12 Jun | TBA | TBA | TBA | TBA 
+10 | 19 Jun | TBA | TBA | TBA | TBA 
+11 | 26 Jun | TBA | TBA | TBA | TBA 
+12 | 3 Jul  | TBA | TBA | TBA | TBA 
+13 | 11 Jul | TBA | TBA | TBA | TBA 
+14 | 17 Jul | TBA | TBA | TBA | TBA 
 
 
 # Essay topic
