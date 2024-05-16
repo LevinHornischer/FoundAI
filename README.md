@@ -29,9 +29,9 @@ Week | Date | Chapter | Topic | Main reading | Additional material
  2 | 24 Apr | 2 | Introduction to AI | Russell and Norvig (2021, ch. 1) |  The additional material mentioned in ch. 2
  3 | 1 May  | - | _cancelled_ (Labour Day) | - | - 
  4 | 8 May  | 3 | Symbolic AI | Flasinski (2016, ch. 2) and Immerman 2021 | - 
- 5 | 15 May | 4 | Statistical learning theory | Shalev-Shwartz and Ben-David (2014, ch. 5 and sec. 6.1-4) | As background also ch. 2 and 3 
- 6 | 22 May | 4 | Universal approximation | Hornik et al. (1989) | Kratsios (2021) 
- 7 | 29 May | 5 | Learning theory for neural nets | Berner et al. (2022), pp. 1-31 | Belkin (2021), sec. 1-3
+ 5 | 15 May | 4 | Statistical learning theory | Shalev-Shwartz and Ben-David (2014, ch. 5 and sec. 6.1-4) | As background also ch. 2-3 
+ 6 | 22 May | 4 | Universal approximation | Hornik et al. (1989) | Kratsios (2021, sec. 1-3)
+ 7 | 29 May | 5 | Learning theory for neural nets | Berner et al. (2022, pp. 1-31) | Belkin (2021, sec. 1-3)
  8 | 5 Jun  | TBA | TBA | TBA | TBA 
  9 | 12 Jun | TBA | TBA | TBA | TBA 
 10 | 19 Jun | TBA | TBA | TBA | TBA 
