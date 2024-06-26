@@ -35,7 +35,7 @@ Week | Date | Chapter | Topic | Main reading | Additional material
  8 | 5 Jun  | 5 | Generalziation problem | Belkin (2021, sec. 1-3) | rest of the paper 
  9 | 12 Jun | 6 | Computability theory of ML | Colbrook et al. (2022) | - 
 10 | 19 Jun | 7 | Using statistical mechanics | Roberts and Yaida (2022, ch. 0) | - 
-11 | 26 Jun | TBA | TBA | TBA | TBA 
+11 | 26 Jun | 8 | Topological machine learning | Hensel et al. (2021) | - 
 12 | 3 Jul  | TBA | TBA | TBA | TBA 
 13 | 11 Jul | TBA | TBA | TBA | TBA 
 14 | 17 Jul | TBA | TBA | TBA | TBA 
