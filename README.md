@@ -1,4 +1,4 @@
-Welcome to the course _Advanced Topics in the Foundations of AI_! It is given during the summer semester 2024 at _LMU Munich_ as part of the _Master in Logic and Philosophy of Science_. 
+Welcome to the course _Advanced Topics in the Foundations of AI_! It is given during the summer semester 2025 at _LMU Munich_ as part of the _Master in Logic and Philosophy of Science_. (Past editions: summer 2023, summer 2024.)
 
 
 # Motivation 
@@ -7,7 +7,7 @@ In recent years, artificial intelligence and, in particular, machine learning ma
 
 # General information
 
-The instructor of the seminar is me, [Levin Hornischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hornischer_levin/index.html). During the semester, we meet on Wednesdays from 12:15 to 13:45 in room 021 (Ludwigstr. 31). Below you find a schedule of when we cover which topic. 
+The instructor of the seminar is me, [Levin Hornischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hornischer_levin/index.html). During the semester, we meet on Wednesdays from 10:15 to 11:45 in room 028 (Ludwigstr. 31). Below you find a schedule of when we cover which topic. 
 
 # Reader
 
@@ -25,25 +25,24 @@ The schedule below describes in which week we will cover which material. Here 'c
 
 Week | Date | Chapter | Topic | Main reading | Additional material
 ---  | ---  | ---     | ---   | ---          | ---   
- 1 | 17 Apr | 1  | Course intro | -  | - 
- 2 | 24 Apr | 2  | Introduction to AI | Russell and Norvig (2021, ch. 1) |  The additional material mentioned in ch. 2
- 3 | 1 May  | -  | _cancelled_ (Labour Day) | - | - 
- 4 | 8 May  | 3  | Symbolic AI | Flasinski (2016, ch. 2) and Immerman 2021 | - 
- 5 | 15 May | 4  | Statistical learning theory | Shalev-Shwartz and Ben-David (2014, ch. 5 and sec. 6.1-4) | As background also ch. 2-3 
- 6 | 22 May | 4  | Universal approximation | Hornik et al. (1989) | Kratsios (2021, sec. 1-3)
- 7 | 29 May | 5  | Learning theory for neural nets | Berner et al. (2022, pp. 1-31) | -
- 8 | 5 Jun  | 5  | Generalziation problem | Belkin (2021, sec. 1-3) | rest of the paper 
- 9 | 12 Jun | 6  | Computability theory of ML | Colbrook et al. (2022) | - 
-10 | 19 Jun | 7  | Using statistical mechanics | Roberts and Yaida (2022, ch. 0) | - 
-11 | 26 Jun | 8  | Topological machine learning | Hensel et al. (2021) | Naitzat et al. (2020)
-12 | 3 Jul  | 10 | Category theory and machine learning | Bradley et al. (2021) | Shiebler et al. (2021) 
-13 | 11 Jul | 11 | Computation as dynamical systems | Bournez and Pouly (2021) | - 
-14 | 17 Jul | -  | Term paper discussion | - | -
-
+ 1 | 23 Apr | 1   | Course intro | -  | - 
+ 2 | 30 Apr | TBA |  |  | 
+ 3 | 7 May  | TBA |  |  |
+ 4 | 14 May | TBA |  |  |
+ 5 | 21 May | TBA |  |  |
+ 6 | 28 May | TBA |  |  |
+ 7 | 4 Jun  | TBA |  |  |
+ 8 | 11 Jun | TBA |  |  |
+ 9 | 18 Jun | TBA |  |  |
+10 | 25 Jun | TBA |  |  |
+11 | 2 Jul  | TBA |  |  |
+12 | 9 Jul  | TBA |  |  |
+13 | 16 Jul | TBA |  |  |
+14 | 23 Jul | -   | Term paper discussion | - | -
 
 # Essay topics
 
-Below are some possible essay topics. I'll extend this list as the course progresses.
+Below are some possible essay topics (I might add more during the course).
 
 * _On the idea of a theory of machine learning_. It is common to hear that we need a theory of machine learning. But it is less clear how such a theory should look like. What should it be able to do? Maybe learning guarantees: that this neural network architecture with that dataset will learn the true function after so and so many steps? Or interpretability: that a human-understandable description of what the neural network does can be given so and so? Or verification: that this machine learning system will only produce safe (i.e., fair, unbiased, non-harmful, etc.) behavior? Looking at the philosophy of science literature, can you find—and argue for and against—desiderata for a theory of ML? Does the theory that we have for symbolic AI meet those desiderata?
 * _The No-Free-Lunch theorem and the problem of induction_. There is an extended discussion on the interpretation of the No-Free-Lunch theorem and how it connects to the philosophical problem of induction (see, e.g., Sterkenburg and
