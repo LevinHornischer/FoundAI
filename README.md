@@ -26,7 +26,7 @@ The schedule below describes in which week we will cover which material. Here 'c
 Week | Date | Chapter | Topic | Main reading | Additional material
 ---  | ---  | ---     | ---   | ---          | ---   
  1 | 23 Apr | 1   | Course intro | -  | - 
- 2 | 30 Apr | TBA |  |  | 
+ 2 | 30 Apr | 2   | Introduction to AI | Russell and Norvig 2021, ch. 1 | See 'further material' in reader, ch. 2 
  3 | 7 May  | TBA |  |  |
  4 | 14 May | TBA |  |  |
  5 | 21 May | TBA |  |  |
