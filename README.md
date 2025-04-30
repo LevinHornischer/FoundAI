@@ -27,7 +27,7 @@ Week | Date | Chapter | Topic | Main reading | Additional material
 ---  | ---  | ---     | ---   | ---          | ---   
  1 | 23 Apr | 1   | Course intro | -  | - 
  2 | 30 Apr | 2   | Introduction to AI | Russell and Norvig 2021, ch. 1 | See 'further material' in reader, ch. 2 
- 3 | 7 May  | TBA |  |  |
+ 3 | 7 May  | 2   | Introduction to AI | Do [coding exercise](https://colab.research.google.com/drive/1VDFm5iHMD2L57CisLdOqY9We7bYoCLV-?usp=sharing) and browse 'further material' in ch. 2 to solidify the concepts discussed in class on 30 April | 
  4 | 14 May | TBA |  |  |
  5 | 21 May | TBA |  |  |
  6 | 28 May | TBA |  |  |
