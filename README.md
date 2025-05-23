@@ -28,10 +28,10 @@ Week | Date | Chapter | Topic | Main reading | Additional material
  1 | 23 Apr | 1   | Course intro | -  | - 
  2 | 30 Apr | 2   | Introduction to AI | Russell and Norvig 2021, ch. 1 | See 'further material' in reader, ch. 2 
  3 | 7 May  | 2   | Introduction to AI | Do [coding exercise](https://colab.research.google.com/drive/1VDFm5iHMD2L57CisLdOqY9We7bYoCLV-?usp=sharing) and browse 'further material' in ch. 2 to solidify the concepts discussed in class on 30 April | 
- 4 | 14 May | 3   | Computability theory | Flasiński (2016, ch. 2) | Immerman (2021)  |
- 5 | 21 May | TBA |  |  |
- 6 | 28 May | TBA |  |  |
- 7 | 4 Jun  | TBA |  |  |
+ 4 | 14 May | 3   | Computability theory | Flasiński (2016), ch. 2 | Immerman (2021)  |
+ 5 | 21 May | 3   | Computability theory | Recap lecture material | [Aaronson (2011)](https://arxiv.org/abs/1108.1791)
+ 6 | 28 May | -   | _cancelled_ |  |
+ 7 | 4 Jun  | 4   | Statistical learning theory | Shalev-Shwartz and Ben-David (2014), ch. 2, 3, 5, and 6.1–4 | -
  8 | 11 Jun | TBA |  |  |
  9 | 18 Jun | TBA |  |  |
 10 | 25 Jun | TBA |  |  |
