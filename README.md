@@ -31,8 +31,8 @@ Week | Date | Chapter | Topic | Main reading | Additional material
  4 | 14 May | 3   | Computability theory | Flasiński (2016), ch. 2 | Immerman (2021)  |
  5 | 21 May | 3   | Computability theory | Recap lecture material | [Aaronson (2011)](https://arxiv.org/abs/1108.1791)
  6 | 28 May | -   | _cancelled_ |  |
- 7 | 4 Jun  | 4   | Statistical learning theory | Shalev-Shwartz and Ben-David (2014), ch. 2, 3, 5, and 6.1–4 | -
- 8 | 11 Jun | TBA |  |  |
+ 7 | 4 Jun  | 4, 5| Desiderata for theory of ML, statistical learning theory | Shalev-Shwartz and Ben-David (2014), ch. 2 and 3 | -
+ 8 | 11 Jun | 5   | Statistical learning theory | Shalev-Shwartz and Ben-David (2014), ch. 5 and 6.1–4 | -
  9 | 18 Jun | TBA |  |  |
 10 | 25 Jun | TBA |  |  |
 11 | 2 Jul  | TBA |  |  |
