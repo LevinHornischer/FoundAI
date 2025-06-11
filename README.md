@@ -32,9 +32,9 @@ Week | Date | Chapter | Topic | Main reading | Additional material
  5 | 21 May | 3   | Computability theory | Recap lecture material | [Aaronson (2011)](https://arxiv.org/abs/1108.1791)
  6 | 28 May | -   | _cancelled_ |  |
  7 | 4 Jun  | 4, 5| Desiderata for theory of ML, statistical learning theory | Shalev-Shwartz and Ben-David (2014), ch. 2 and 3 | -
- 8 | 11 Jun | 5   | Statistical learning theory | Shalev-Shwartz and Ben-David (2014), ch. 5 and 6.1–4 | -
- 9 | 18 Jun | TBA |  |  |
-10 | 25 Jun | TBA |  |  |
+ 8 | 11 Jun | 5   | Statistical learning theory | Shalev-Shwartz and Ben-David (2014), ch. 5 and 6.1–4 | 
+ 9 | 18 Jun | 5   | Statistical learning theory (bias-complexity tradeoff, VC dimension, universal approximation) | Hornik et al. 1989 | Sterkenburg and Grünwald (2021)
+10 | 25 Jun | 6   | Statistical learning for deep learning | Berner et al. (2022) pages 1–31 | Belkin (2021) sections 1–3
 11 | 2 Jul  | TBA |  |  |
 12 | 9 Jul  | TBA |  |  |
 13 | 16 Jul | TBA |  |  |
