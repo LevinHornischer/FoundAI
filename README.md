@@ -35,9 +35,9 @@ Week | Date | Chapter | Topic | Main reading | Additional material
  8 | 11 Jun | 5   | Statistical learning theory | Shalev-Shwartz and Ben-David (2014), ch. 5 and 6.1–4 | 
  9 | 18 Jun | 5   | Statistical learning theory (bias-complexity tradeoff, VC dimension, universal approximation) | Hornik et al. 1989 | Sterkenburg and Grünwald (2021)
 10 | 25 Jun | 6   | Statistical learning for deep learning | Berner et al. (2022) pages 1–31 | Belkin (2021) sections 1–3
-11 | 2 Jul  | TBA |  |  |
-12 | 9 Jul  | TBA |  |  |
-13 | 16 Jul | TBA |  |  |
+11 | 2 Jul  | 7   | Scientific computing | Colbrook et al. (2022)  |
+12 | 9 Jul  | 11  | Mechanistic interpretability | Geiger et al. (2024), sec. 1-2 |
+13 | 16 Jul | 11  | Mechanistic interpretability | Geiger et al. (2024), sec. 3-4 |
 14 | 23 Jul | -   | Term paper discussion | - | -
 
 # Essay topics
