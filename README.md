@@ -33,8 +33,8 @@ Week | Date | Chapter | Topic | Main reading | Additional material
 ---  | ---  | ---     | ---   | ---          | ---   
  1 | 15 Apr | 1   | Course intro | -  | -
  2 | 22 Apr | 2   | Introduction to AI | Russell and Norvig 2021, ch. 1 | Do [coding exercise](https://colab.research.google.com/drive/1VDFm5iHMD2L57CisLdOqY9We7bYoCLV-?usp=sharing) and browse 'further material' in ch. 2 to solidify the concepts discussed in class
- 3 | 29 Apr | TBA |   
- 4 | 6 May  | TBA |  
+ 3 | 29 Apr | 3   | Computability theory | Flasiński (2016, ch. 2) , Immerman (2021) |    
+ 4 | 6 May  | 3   | Complexity theory | Aaronson 2011 |  
  5 | 13 May | TBA |  
  6 | 20 May | TBA | 
  7 | 27 May | TBA | 
