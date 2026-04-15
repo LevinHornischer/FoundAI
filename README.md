@@ -31,8 +31,8 @@ The schedule below describes in which week we will cover which material. Here 'c
 
 Week | Date | Chapter | Topic | Main reading | Additional material
 ---  | ---  | ---     | ---   | ---          | ---   
- 1 | 15 Apr | 1   | Course intro | -  | Do [coding exercise](https://colab.research.google.com/drive/1VDFm5iHMD2L57CisLdOqY9We7bYoCLV-?usp=sharing) and browse 'further material' in ch. 2 to solidify the concepts discussed in class
- 2 | 22 Apr | 2   | Introduction to AI | Russell and Norvig 2021, ch. 1 | See 'further material' in reader, ch. 2 
+ 1 | 15 Apr | 1   | Course intro | -  | -
+ 2 | 22 Apr | 2   | Introduction to AI | Russell and Norvig 2021, ch. 1 | Do [coding exercise](https://colab.research.google.com/drive/1VDFm5iHMD2L57CisLdOqY9We7bYoCLV-?usp=sharing) and browse 'further material' in ch. 2 to solidify the concepts discussed in class
  3 | 29 Apr | TBA |   
  4 | 6 May  | TBA |  
  5 | 13 May | TBA |  
