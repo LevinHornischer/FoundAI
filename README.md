@@ -37,7 +37,7 @@ Week | Date | Chapter | Topic | Main reading | Additional material
  4 | 6 May  | 3   | Computability theory | Lecture notes, ch. 3 |  
  5 | 13 May | 3   | Complexity theory | Aaronson 2011, especially ch. 1-4 and 7 | 
  6 | 20 May | 4, 5| Desiderata for theory of ML, statistical learning theory | Shalev-Shwartz and Ben-David (2014), ch. 2 and 3
- 7 | 27 May | TBA | 
+ 7 | 27 May | 5   | The No-Free-Lunch theorem | Shalev-Shwartz and Ben-David (2014, ch. 5 and sec. 6.1-4)
  8 | 3 Jun  | TBA | 
  9 | 10 Jun | TBA | 
 10 | 17 Jun | TBA | 
