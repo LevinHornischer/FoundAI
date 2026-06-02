@@ -38,7 +38,7 @@ Week | Date | Chapter | Topic | Main reading | Additional material
  5 | 13 May | 3   | Complexity theory | Aaronson 2011, especially ch. 1-4 and 7 | 
  6 | 20 May | 4, 5| Desiderata for theory of ML, statistical learning theory | Shalev-Shwartz and Ben-David (2014), ch. 2 and 3
  7 | 27 May | 5   | The No-Free-Lunch theorem | Shalev-Shwartz and Ben-David (2014, ch. 5 and sec. 6.1-4)
- 8 | 3 Jun  | TBA | 
+ 8 | 3 Jun  | 6   | Statistical learning for deep learning | Berner et al. (2022) pages 1–31
  9 | 10 Jun | TBA | 
 10 | 17 Jun | TBA | 
 11 | 24 Jun | TBA | 
