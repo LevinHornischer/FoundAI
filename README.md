@@ -39,7 +39,7 @@ Week | Date | Chapter | Topic | Main reading | Additional material
  6 | 20 May | 4, 5| Desiderata for theory of ML, statistical learning theory | Shalev-Shwartz and Ben-David (2014), ch. 2 and 3
  7 | 27 May | 5   | The No-Free-Lunch theorem | Shalev-Shwartz and Ben-David (2014, ch. 5 and sec. 6.1-4)
  8 | 3 Jun  | 6   | Statistical learning for deep learning | Berner et al. (2022) pages 1–31
- 9 | 10 Jun | TBA | 
+ 9 | 10 Jun | 6   | Statistical learning for deep learning | Belkin (2021)
 10 | 17 Jun | TBA | 
 11 | 24 Jun | TBA | 
 12 | 1 Jul  | TBA | 
