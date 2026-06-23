@@ -41,9 +41,9 @@ Week | Date | Chapter | Topic | Main reading | Additional material
  8 | 3 Jun  | 6   | Statistical learning for deep learning | Berner et al. (2022) pages 1–31
  9 | 10 Jun | 6   | Statistical learning for deep learning | Belkin (2021)
 10 | 17 Jun | 8   | Statistical mechanics and deep learning | [Simon et al. 2026](https://arxiv.org/abs/2604.21691v1) 
-11 | 24 Jun | TBA | 
-12 | 1 Jul  | TBA | 
-13 | 8 Jul  | TBA | 
+11 | 24 Jun | 11  | Mechanistic interpretability | [Geiger et al. (2025)](https://jmlr.org/papers/volume26/23-0058/23-0058.pdf), sec. 1-2 | Chalmers (2025)
+12 | 1 Jul  | 11  | Mechanistic interpretability | [Geiger et al. (2025)](https://jmlr.org/papers/volume26/23-0058/23-0058.pdf), sec. 3-4 | 
+13 | 8 Jul  | 10  | Topological data analysis  | [Hensel et al. (2021)](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2021.681108/full)
 14 | 15 Jul | -   | Term paper discussion | - | -
 
 # Essay topics
